@@ -8,6 +8,6 @@ Stuff from my local first talk at Momentum Conf 2025
 - [Local-first landscape tech comparison](https://www.localfirst.fm/landscape#3gADsGNvbHVtblZpc2liaWxpdHneAAKsR2VuZXJhbF9OYW1lwqxSQU5ET01fT1JERVLCrWNvbHVtbkZpbHRlcnOR3gAComlkrEdlbmVyYWxfTmFtZaV2YWx1ZZSpSW5zdGFudERCqUxpdmVTdG9yZahUaW55QmFzZaRKYXp6p3NvcnRpbmeR3gAComlkrEdlbmVyYWxfTmFtZaRkZXNjww==) - filtered on solutions that we've explored the most recently.
 
 Etc:
-- Come chat with me about Expo on [https://chat.expo.dev](our discord channel).
+- Come chat with me about Expo on [our discord channel](https://chat.expo.dev).
 - I'm on Bluesky at **keith.bsky.social**
 - Build mobile apps with us: [Expo.dev](https://expo.dev)
